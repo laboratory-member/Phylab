@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/XMZ/Desktop/Flowers for Tuesday/Projects/PhyLab/media/videos/1/1080p60/partial_movie_files/FillSVGWithBlue/3529212410_3725315854_4284599423.mp4'
-file 'file:C:/Users/XMZ/Desktop/Flowers for Tuesday/Projects/PhyLab/media/videos/1/1080p60/partial_movie_files/FillSVGWithBlue/3040924799_418716381_223132457.mp4'
-file 'file:C:/Users/XMZ/Desktop/Flowers for Tuesday/Projects/PhyLab/media/videos/1/1080p60/partial_movie_files/FillSVGWithBlue/3040924799_2844360058_2385509399.mp4'
